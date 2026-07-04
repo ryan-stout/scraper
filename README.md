@@ -1,3 +1,2 @@
 # scraper
-
-Web scraper project (private).
+Web scraper project
